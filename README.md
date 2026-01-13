@@ -1,4 +1,4 @@
-# STAT5205 Spring 2025: Final Project - Autonomous navigation for blind on Jetson Nano
+# Autonomous navigation for blind on Jetson Nano
 
 ## Project Description
 This project implements a real-time obstacle detection system using YOLOv5 for autonomous navigation. The system is optimized for deployment on Jetson Nano, utilizing TensorRT for efficient inference. The model is trained to detect 3 classes: "walkable_area", "human" and "obstacle", providing crucial information for autonomous navigation systems.
